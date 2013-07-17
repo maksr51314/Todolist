@@ -7,6 +7,7 @@
     <file path="/Dummy.txt" changelist="1dd7a65b-5d5b-4898-b88e-a28c299bc855" time="1374055028820" ignored="false" />
     <file path="/index.html" changelist="1dd7a65b-5d5b-4898-b88e-a28c299bc855" time="1374055851855" ignored="false" />
     <file path="/app.js" changelist="1dd7a65b-5d5b-4898-b88e-a28c299bc855" time="1374055900051" ignored="false" />
+    <file path="/todoCtrl.js" changelist="1dd7a65b-5d5b-4898-b88e-a28c299bc855" time="1374056077748" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="todoCtrl.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/controllers/todoCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="3" selection-start="51" selection-end="51" vertical-scroll-proportion="0.03024911">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
@@ -76,6 +86,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/app.js" />
+        <option value="$PROJECT_DIR$/js/controllers/todoCtrl.js" />
       </list>
     </option>
   </component>
@@ -140,6 +151,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Todolist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Todolist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -252,13 +281,10 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/vendor/angular.js">
+    <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1373761200000" expanded="true" signature="493215:493230" placeholder="{...}" />
-            <marker date="1373761200000" expanded="true" signature="493239:493255" placeholder="{...}" />
-          </folding>
+        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -269,9 +295,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
+    <entry file="file://$PROJECT_DIR$/js/vendor/angular.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1373761200000" expanded="true" signature="493215:493230" placeholder="{...}" />
+            <marker date="1373761200000" expanded="true" signature="493239:493255" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/controllers/todoCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="3" selection-start="51" selection-end="51" vertical-scroll-proportion="0.03024911">
           <folding />
         </state>
       </provider>
