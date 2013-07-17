@@ -1,0 +1,20 @@
+<!doctype html>
+        <html>
+<head>
+    <title>Todo app</title>
+</head>
+<body>
+
+<section ng-app="todoApp">
+    <section ng-controller="todoCtrl">
+        <form ng-submit="addTodo()">
+            <input type="text" ng-model="newTodo" autofocus>
+        </form>
+    </section>
+</section>
+
+<!--connect script-->
+<script src="js/vendor/angular.js"></script>
+
+</body>
+        </html>
